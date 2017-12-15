@@ -102,4 +102,4 @@ $('#Share li a.share6').click(function(e) {
 $(document).delegate(".weixin_close",'click',function(){
     $('.qrcode,.Smohan_Layer_Shade').fadeOut(300);
 
-})
+});
